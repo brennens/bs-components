@@ -1,2 +1,5 @@
-# bs-components
-Components with Storybook
+# Component Library with Storybook
+
+- yarn install
+- npm run storybook
+
